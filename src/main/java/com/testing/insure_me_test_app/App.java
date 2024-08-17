@@ -22,7 +22,7 @@ public class App
 	 WebDriver driver = new ChromeDriver(options);
 	 	
 	 //open the web application
-        driver.get("http://18.226.28.50:8082/contact.html");
+        driver.get("http://18.189.116.7/contact.html");
         
         
         String title = driver.getTitle();
